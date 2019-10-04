@@ -1,3 +1,3 @@
-# Powershell
+# Shell Scripts
 
-some nice powershell script that will help a whole day as admin :)
+some nice shell script that will help a whole day as admin :)
